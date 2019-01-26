@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Posts
-permalink: /posts/
+permalink: /
 ---
 
 {% for post in site.posts %}
