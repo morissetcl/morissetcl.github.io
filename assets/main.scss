@@ -1,0 +1,27 @@
+---
+---
+
+@import "minima";
+// Add whatever custom stuff you'd like here
+
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 100px;
+  background: #dfdfdf;
+}
+
+.intro-container {
+  background-color: #dfdfdf;
+  padding: 30px;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+.reset { margin-bottom:  0;}
+
+.name {
+  background-color: red;
+  padding: 0 5px;
+}
