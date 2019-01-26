@@ -3,16 +3,36 @@ layout: page
 title: About
 permalink: /about/
 ---
+<section class="post-list">
+  <div class="container">
+  <h4 class='title-sub'>Hi there, two ways to know me better..</h4>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+  <h4 class='underline'>Conventional way</h4>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+  <span class='blue'>Back-End:</span> Ruby, Ruby On Rails <br>
+  <span class='blue'>JS:</span> Vanilla, Jquery, ReactJS, EmberJS<br>
+  <span class='blue'>Front-End:</span> Html, CSS, SASS, CSS Framework (Materialize, Bootstrap)<br>
+  <span class='blue'>Testing:</span> TDD, Rspec<br>
+  <span class='blue'>Agile:</span> Short iteration, poker-planning, pair-programming, burndown-chart<br>
+  <span class='blue'>Clean code:</span> Rubocop, KISS, DRY, Make It Works Make It Right Make It Fast !
+  <br><br>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+  <h4 class='underline'>Less Conventional way</h4>
 
+  I'm living in Paris in the 18th district, close to Montmartre. I grew up in Normandy and I travel a bit throughout France. Le Havre, Annecy, Paris..to my studies, mainly in marketing, I was graduated from business school in 2011.
 
-[jekyll-organization]: https://github.com/jekyll
+  After 2/3 years of work and moove during 1 year in Toronto, Canada. Simply to improve my poor english and work as garde-manger, cooker and also as sales rep within wine industry.<br><br>
+
+  But I decided to come back to France and I work as sales rep...but definetly it wasn't for me (trust me !). So I make decision to launch my on tech product..but I was not surrounded by developer, from this time I started to learn HTML/CSS as the first baby-step to learn code.<br><br>
+
+  But quickly I was falling in love with the magick from code and I decided to switch of job to make part of tech team. I studied at <a href='https://www.lewagon.com/'>Le Wagon Bootcamp (Paris)</a>. After I worked over some small missions as Ruby dev..but my career really started when I start to work within <a href='https://www.captive.fr/'>Captive Studio</a> (my current job) as Ruby On Rails Developer.
+  <br><br>
+  <p class='subtitle'>What I do after work.</p>
+
+  <span class='blue'>Graffiti:</span> I am painting from my 16 years old. From wall to canvas I like to spend time to create, make colors and play with letters.<br>
+
+  <span class='blue'>Concert::</span> Jump in concert. French Rap from 90's to 00 best music over the world..just after Gospel Church.<br>
+
+  <span class='blue'>Code::</span> Yeah..To much sides projects started..and some Meetup.
+  </div>
+</section>`

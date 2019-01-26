@@ -1,6 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 ---
+<h4 class='title-sub'>Hi I am Clément MORISSET,<br>
+Ruby On Rails enthusiastic, benevolant coder and JS framework digger
+</h4>

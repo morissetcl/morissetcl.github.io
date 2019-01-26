@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Posts
-permalink: /
+permalink: /posts
 ---
 <h4 class='title-sub'>Actually Medium articles I wrote...give me five !</h4>
 
