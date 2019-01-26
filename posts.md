@@ -3,6 +3,7 @@ layout: page
 title: Posts
 permalink: /
 ---
+<h4 class='title-sub'>Actually Medium articles I wrote...give me five !</h4>
 
 {% for post in site.posts %}
 <div class="row">
@@ -15,4 +16,5 @@ permalink: /
 
 	</div>
 </div>
+
 {% endfor %}
