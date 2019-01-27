@@ -35,4 +35,4 @@ permalink: /about/
 
   <span class='blue'>Code::</span> Yeah..To much sides projects started..and some Meetup.
   </div>
-</section>`
+</section>
