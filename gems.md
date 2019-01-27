@@ -9,7 +9,7 @@ permalink: /gems/
 <div class="row">
 	<div class="small-12 columns">
 
-		<sub>January 26, 2019</sub>
+		<sub>August 13, 2018</sub>
 		<a href="https://github.com/morissetcl/see_double" target="_blank"><h3>See Double</h3></a>
       <p>A small tool CLI, dedicated to Rspec lover, to monitoring your FEATURE specs and check your duplication. SeeDouble go through all your specs and count the number of occurence of your 'expect' and 'result'.</p>
 	</div>
@@ -19,7 +19,7 @@ permalink: /gems/
 <div class="row">
 	<div class="small-12 columns">
 
-		<sub>January 26, 2019</sub>
+		<sub>January 26, 2018</sub>
     <a href="https://github.com/morissetcl/conchiterz" target="_blank"><h3>Conchiterz</h3></a>
       <p>A simply gem to feminize french word/sentence.</p>
       <ul>
