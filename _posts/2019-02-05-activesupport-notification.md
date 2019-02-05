@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Take back control of your application thanks to ActiveSupport::Notifications
-date:   2019-02-05 18:00:47 +0100
+date:   2019-02-04 18:00:47 +0100
 medium_url: https://medium.com/@clementrollon/take-back-control-of-your-application-thanks-to-activesupport-notifications-be886618577
 categories:
 ---
