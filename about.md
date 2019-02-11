@@ -3,6 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-90123342-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-90123342-2');
+</script>
+
 <section class="post-list">
   <div class="container">
   <h4 class='title-sub'>Hi there, two ways to know me better..</h4>

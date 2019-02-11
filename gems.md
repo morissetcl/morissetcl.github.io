@@ -3,6 +3,14 @@ layout: page
 title: Gems
 permalink: /gems/
 ---
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-90123342-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-90123342-2');
+</script>
 
 <h4 class='title-sub'>Some gems I am coded..Sadly just used by me.</h4>
 
