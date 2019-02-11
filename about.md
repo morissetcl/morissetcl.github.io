@@ -12,9 +12,10 @@ permalink: /about/
   <span class='blue'>Back-End:</span> Ruby, Ruby On Rails <br>
   <span class='blue'>JS:</span> Vanilla, Jquery, ReactJS, EmberJS<br>
   <span class='blue'>Front-End:</span> Html, CSS, SASS, CSS Framework (Materialize, Bootstrap)<br>
-  <span class='blue'>Testing:</span> TDD, Rspec<br>
-  <span class='blue'>Agile:</span> Short iteration, poker-planning, pair-programming, burndown-chart<br>
+  <span class='blue'>Testing:</span>FactoryBot, Rspec<br>
+  <span class='blue'>Agile:</span> TDD, short iteration, code review, poker-planning, pair-programming, burndown-chart<br>
   <span class='blue'>Clean code:</span> Rubocop, KISS, DRY, Make It Works Make It Right Make It Fast !
+  <span class='blue'>Some of my favorites gems:</span>Bullet, Geocoder, Cancancan, Wicked_pdf, PaperTrail, AASM...
   <br><br>
 
   <h4 class='underline'>Less Conventional way</h4>
