@@ -24,7 +24,7 @@ permalink: /about/
   <span class='blue'>Testing:</span> FactoryBot, Rspec<br>
   <span class='blue'>Agile:</span> TDD, short iteration, code review, poker-planning, pair-programming, burndown-chart<br>
   <span class='blue'>Clean code:</span> Rubocop, KISS, DRY, Make It Works Make It Right Make It Fast !<br>
-  <span class='blue'>Some of my favorites gems:</span> Bullet, Geocoder, Cancancan, Wicked_pdf, PaperTrail, AASM...
+  <span class='blue'>Some of my favorites gems:</span> Bullet, Geocoder, Cancancan, WickedPDF, PaperTrail, AASM, Ransack, Sidekiq...
   <br><br>
 
   <h4 class='underline'>Less Conventional way</h4>
