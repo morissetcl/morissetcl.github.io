@@ -32,7 +32,7 @@ permalink: /gems/
       <p>A simply gem to feminize french word/sentence.</p>
       <ul>
         <li>Keep intact upcase, downcase and capitalize letters.</li>
-        <li>Allows you to escape some words if you does not want feminize them.</li>
+        <li>Allows you to escape some words if you don't not want feminize them.</li>
         <li>Handle and return punctuation according the french rules. (.;:!...,?)</li>
         <li>Keep intact word with accent. (éèêâàûôî)</li>
         <li>Handle some special character. ('-%)</li>

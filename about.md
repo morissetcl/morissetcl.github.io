@@ -31,9 +31,9 @@ permalink: /about/
 
   I'm living in Paris in the 18th district, close to Montmartre. I grew up in Normandy and I travel a bit throughout France. Le Havre, Annecy, Paris..to my studies, mainly in marketing, I was graduated from business school in 2011.
 
-  After 2/3 years of work and moove during 1 year in Toronto, Canada. Simply to improve my poor english and work as garde-manger, cooker and also as sales rep within wine industry.<br><br>
+  After 2/3 years of work I decided to move during 1 year in Toronto, Canada. Simply to improve my poor english and work as garde-manger, cooker and also as sales rep within wine industry.<br><br>
 
-  But I decided to come back to France and I work as sales rep...but definetly it wasn't for me (trust me !). So I make decision to launch my on tech product..but I was not surrounded by developer, from this time I started to learn HTML/CSS as the first baby-step to learn code.<br><br>
+  But I came back to France and I worked as sales rep...but definetly it wasn't for me. So I decided to launch my own tech product..but I was not surrounded by developer, from this time I started to learn HTML/CSS as the first baby-step to learn code.<br><br>
 
   But quickly I was falling in love with the magick from code and I decided to switch of job to make part of tech team. I studied at <a href='https://www.lewagon.com/'>Le Wagon Bootcamp (Paris)</a>. After I worked over some small missions as Ruby dev..but my career really started when I start to work within <a href='https://www.captive.fr/'>Captive Studio</a> (my current job) as Ruby On Rails Developer.
   <br><br>
