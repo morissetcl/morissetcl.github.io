@@ -35,11 +35,11 @@ permalink: /about/
 
   But I came back to France and I worked as sales rep...but definetly it wasn't for me. So I decided to launch my own tech product..but I was not surrounded by developer, from this time I started to learn HTML/CSS as the first baby-step to learn code.<br><br>
 
-  But quickly I was falling in love with the magick from code and I decided to switch of job to make part of tech team. I studied at <a href='https://www.lewagon.com/'>Le Wagon Bootcamp (Paris)</a>. After I worked over some small missions as Ruby dev..but my career really started when I start to work within <a href='https://www.captive.fr/'>Captive Studio</a> (my current job) as Ruby On Rails Developer.
+  But quickly I fell in love with the magick from code and I decided to switch of job to make part of tech team. I studied at <a href='https://www.lewagon.com/'>Le Wagon Bootcamp (Paris)</a>. After I worked over some small missions as Ruby dev..but my career really started when I start to work within <a href='https://www.captive.fr/'>Captive Studio</a> (my current job) as Ruby On Rails Developer.
   <br><br>
   <p class='subtitle'>What I do after work.</p>
 
-  <span class='blue'>Graffiti:</span> I am painting from my 16 years old. From wall to canvas I like to spend time to create, make colors and play with letters.<br>
+  <span class='blue'>Graffiti:</span> I paint since my 16 years old. From wall to canvas I like to spend time to create, make colors and play with letters.<br>
 
   <span class='blue'>Concert::</span> Jump in concert. French Rap from 90's to 00 best music over the world..just after Gospel Church.<br>
 
