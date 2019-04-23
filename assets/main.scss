@@ -49,3 +49,13 @@
   a { text-align: center }
   img { width: 55% }
 }
+
+.screenshot-app {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.screenshot {
+  width: 140px;
+  height: 200px;
+}
