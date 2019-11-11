@@ -18,7 +18,14 @@ permalink: /gems/
 	<div class="small-12 columns">
 
 		<sub>August 13, 2018</sub>
-		<a href="https://github.com/morissetcl/see_double" target="_blank"><h3>See Double</h3></a>
+      <div class='gem-header'>
+      <a href="https://github.com/morissetcl/see_double" target="_blank"><h3>See Double</h3></a>
+        <div class='badges'>
+        <img src="https://badge.fury.io/rb/see_double.svg" />
+        <img src="https://img.shields.io/circleci/build/github/morissetcl/see_double/master" />
+        </div>
+      </div>
+
       <p>A small tool CLI, dedicated to Rspec lover, to monitoring your FEATURE specs and check your duplication. SeeDouble go through all your specs and count the number of occurence of your 'expect' and 'result'.</p>
 	</div>
 
@@ -28,7 +35,15 @@ permalink: /gems/
 	<div class="small-12 columns">
 
 		<sub>January 26, 2018</sub>
-    <a href="https://github.com/morissetcl/conchiterz" target="_blank"><h3>Conchiterz</h3></a>
+    <div class='gem-header'>
+      <a href="https://github.com/morissetcl/conchiterz" target="_blank"><h3>Conchiterz</h3></a>
+      <div class='badges'>
+
+      <img src="https://badge.fury.io/rb/conchiterz.svg" />
+      <img src="https://img.shields.io/circleci/build/github/morissetcl/conchiterz/master" />
+      </div>
+    </div>
+
       <p>A simply gem to feminize french word/sentence.</p>
       <ul>
         <li>Keep intact upcase, downcase and capitalize letters.</li>
