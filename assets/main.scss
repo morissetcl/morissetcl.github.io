@@ -52,12 +52,16 @@
 
 .screenshot-app {
   display: flex;
-  justify-content: space-evenly;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .screenshot {
-  width: 140px;
-  height: 200px;
+  width: 30%;
+}
+
+.screenshot-web {
+  width: 50%;
 }
 
 .gem-header {
