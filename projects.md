@@ -18,7 +18,7 @@ permalink: /projects/
 	<div class="small-12 columns">
 	<sub>November 12, 2019</sub>
 	<a href="https://www.monsecteur.com/" target="_blank"><h3>Mon Secteur</h3></a>
-    <p><b>Mon Secteur</b> is a web application dedicated to sales representative specialized in food and B2B. Basically if your customers are restaurants you should take a look of this application. We created a huge database which give you access to thousands restaurants menus of your prospecting area. You are working in Paris and you need to sell a ton of shrimps ? In one click get all restaurants around you which have shrimps in their menu. Save your time and sell faster.</p>
+    <p><b>Mon Secteur</b> is a web application dedicated to sales representative specialized in food and B2B. Basically if your customers are restaurants you should take a look to this application. We have created a huge database which give you access to thousands restaurants menus of your prospecting area. You are working in Paris and you need to sell a ton of shrimps ? Quickly find out all restaurants around you which have shrimps in their menu. Save your time and sell faster.</p>
     <div class='screenshot-app'>
       <img class="screenshot-web" src="{{ site.thumb_4 }}" />
       <img class="screenshot-web" src="{{ site.thumb_7 }}" />

@@ -21,28 +21,28 @@ permalink: /about/
   <span class='blue'>Back-End:</span> Ruby, Ruby On Rails <br>
   <span class='blue'>JS:</span> Vanilla, Jquery, ReactJS, EmberJS<br>
   <span class='blue'>Front-End:</span> Html, CSS, SASS, CSS Framework (Materialize, Bootstrap)<br>
-  <span class='blue'>Testing:</span> FactoryBot, Rspec<br>
-  <span class='blue'>Agile:</span> TDD, short iteration, code review, poker-planning, pair-programming, burndown-chart<br>
-  <span class='blue'>Clean code:</span> Rubocop, KISS, DRY, Make It Works Make It Right Make It Fast !<br>
-  <span class='blue'>Some of my favorites gems:</span> Bullet, Geocoder, Cancancan, WickedPDF, PaperTrail, AASM, Ransack, Sidekiq...
+  <span class='blue'>Mobile:</span> React Native, Expo<br>
+  <span class='blue'>Testing:</span> Rspec, Jest<br>
+  <span class='blue'>Agile:</span> TDD, code review, poker-planning, pair-programming, retrospective<br>
+  <span class='blue'>Clean code:</span> linter, KISS, DRY, Make It Works Make It Right Make It Fast !<br>
   <br><br>
 
   <h4 class='underline'>Less Conventional way</h4>
 
-  I'm living in Paris in the 18th district, close to Montmartre. I grew up in Normandy and I travel a bit throughout France. Le Havre, Annecy, Paris..to my studies, mainly in marketing, I was graduated from business school in 2011.
+  I live in Paris in the 18th district, close to Montmartre. I grew up in Normandy and I've travelled a bit throughout France. Le Havre, Annecy, Paris..for my studies, mainly in marketing, I was graduated from business school in 2011.
 
-  After 2/3 years of work I decided to move during 1 year in Toronto, Canada. Simply to improve my poor english and work as garde-manger, cooker and also as sales rep within wine industry.<br><br>
+  After 2/3 years of work I decided to move for 1 year in Toronto, Canada. Simply to improve my poor english and work as garde-manger, cooker and also as sales rep within wine industry.<br><br>
 
-  But I came back to France and I worked as sales rep...but definetly it wasn't for me. So I decided to launch my own tech product..but I was not surrounded by developer, from this time I started to learn HTML/CSS as the first baby-step to learn code.<br><br>
+  Then I came back to France and I worked as sales rep...but definitely it wasn't for me. So I decided to launch my own tech product..but I couldn't find developers in my surrounding, from this time I've started to learn HTML/CSS as the first baby-step to learn code.<br><br>
 
-  But quickly I fell in love with the magick from code and I decided to switch of job to make part of tech team. I studied at <a href='https://www.lewagon.com/'>Le Wagon Bootcamp (Paris)</a>. After I worked over some small missions as Ruby dev..but my career really started when I start to work within <a href='https://www.captive.fr/'>Captive Studio</a> (my current job) as Ruby On Rails Developer.
+  But quickly I fell in love with the magic of coding and I decided to switch job to be part of the tech team. I studied at <a href='https://www.lewagon.com/'>Le Wagon Bootcamp (Paris)</a>. After my graduation I worked on some small missions as Ruby dev..but my career really started when I've begun to work within <a href='https://www.captive.fr/'>Captive Studio</a> (my current job) as Ruby On Rails Developer.
   <br><br>
   <p class='subtitle'>What I do after work.</p>
 
-  <span class='blue'>Graffiti:</span> I paint since my 16 years old. From wall to canvas I like to spend time to create, make colors and play with letters.<br>
+  <span class='blue'>Graffiti:</span> I paint since I was 16. From wall to canvas I like  spend time creating, make colors and play with letters.<br>
 
-  <span class='blue'>Concert::</span> Jump in concert. French Rap from 90's to 00 best music over the world..just after Gospel Church.<br>
+  <span class='blue'>Concert: </span> Jump in concert. French rap from 90's to 00 and Gospel music.<br>
 
-  <span class='blue'>Code::</span> Yeah..To much sides projects started..and some Meetup.
+  <span class='blue'>Code: </span> Yeah..To much sides projects started..and some Meetup.
   </div>
 </section>
