@@ -10,4 +10,4 @@ rails generate migration AddSomethingToSomething,
 rails db:sth
 etc..
 Are you bored to only use these commands ?
-I have always be frustrated to use migrations daily without trying to make the most of them. In this way I would like share 3 small tips/stuff I found interesting.
+I have always been frustrated to use migrations daily without trying to make the most of them. In this way I would like share 3 small tips/stuff I found interesting.
