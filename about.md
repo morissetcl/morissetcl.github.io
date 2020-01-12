@@ -23,13 +23,13 @@ permalink: /about/
   <span class='blue'>Front-End:</span> Html, CSS, SASS, CSS Framework (Materialize, Bootstrap)<br>
   <span class='blue'>Mobile:</span> React Native, Expo<br>
   <span class='blue'>Testing:</span> Rspec, Jest<br>
+  <span class='blue'>CI/CD:</span> Gitlab, Travis, CircleCI<br>
   <span class='blue'>Agile:</span> TDD, code review, poker-planning, pair-programming, retrospective<br>
-  <span class='blue'>Clean code:</span> linter, KISS, DRY, Make It Works Make It Right Make It Fast !<br>
   <br><br>
 
   <h4 class='underline'>Less Conventional way</h4>
 
-  I live in Paris in the 18th district, close to Montmartre. I grew up in Normandy and I've travelled a bit throughout France. Le Havre, Annecy, Paris..for my studies, mainly in marketing, I was graduated from business school in 2011.
+  I have been living in Paris for 10 years. I grew up in Normandy and I've travelled a bit throughout France. Le Havre, Annecy, Paris..for my studies, mainly in marketing, I was graduated from business school in 2011.
 
   After 2/3 years of work I decided to move for 1 year in Toronto, Canada. Simply to improve my poor english and work as garde-manger, cooker and also as sales rep within wine industry.<br><br>
 
@@ -39,10 +39,10 @@ permalink: /about/
   <br><br>
   <p class='subtitle'>What I do after work.</p>
 
-  <span class='blue'>Graffiti:</span> I paint since I was 16. From wall to canvas I like  spend time creating, make colors and play with letters.<br>
+  <span class='blue'>Graffiti:</span> I paint since I was 16. From wall to canvas I like spend time creating and playing with letters.<br>
 
   <span class='blue'>Concert: </span> Jump in concert. French rap from 90's to 00 and Gospel music.<br>
 
-  <span class='blue'>Code: </span> Yeah..To much sides projects started..and some Meetup.
+  <span class='blue'>Code: </span>To much sides projects started.
   </div>
 </section>

@@ -34,8 +34,8 @@ permalink: /projects/
 	<a href="https://play.google.com/store/apps/details?id=com.moodtoverse.moodtoverse" target="_blank"><h3>Mood To Verse</h3></a>
     <p>My first <b>React Native</b> mobile application. Mood To Verse is a Christian app which allow you to find the right Bible verse regarding your answer at three questions. Available only on Android and in French. </p>
     <div class='screenshot-app'>
-      <img class="screenshot" src="{{ site.thumb_2 }}" />
       <img class="screenshot" src="{{ site.thumb_3 }}" />
+      <img class="screenshot" src="{{ site.thumb_2 }}" />
       <img class="screenshot" src="{{ site.thumb_1 }}" />
     </div>
 	</div>

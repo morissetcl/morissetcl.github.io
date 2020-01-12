@@ -12,7 +12,7 @@ permalink: /posts
   gtag('config', 'UA-90123342-2');
 </script>
 
-<h4 class='title-sub'>Actually Medium articles I wrote...give me five !</h4>
+<h4 class='title-sub'>Actually Medium articles I have written.</h4>
 
 {% for post in site.posts %}
 <div class="row">
