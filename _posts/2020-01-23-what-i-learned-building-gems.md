@@ -3,7 +3,7 @@ layout: post
 title:  What I learned by writing gems.
 date:   2020-01-23 18:00:47 +0100
 medium_url: https://medium.com/@clementrollon/what-i-learned-by-writing-gems-62fe2b04e5cf
-categories:
+lang: en
 ---
 
 I have been publishing 3 gems for 2 years, of course I didn’t change the game with them. No much stars, no much users..and not really sure to save time/life of many developers.

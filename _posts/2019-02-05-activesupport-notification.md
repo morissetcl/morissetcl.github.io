@@ -3,7 +3,7 @@ layout: post
 title:  Take back control of your application thanks to ActiveSupport::Notifications
 date:   2019-02-04 18:00:47 +0100
 medium_url: https://medium.com/@clementrollon/take-back-control-of-your-application-thanks-to-activesupport-notifications-be886618577
-categories:
+lang: en
 ---
 
 Well, It’s monday at work, you just grabbed your cup of coffee, checking your email, chilling on your favorite Reddit’s sub..suddainly your Product Owner come and she’s wondering why your website is so slow. Damn, you reorder you priorities and you ‘re wondering how to know what request are painly slow.

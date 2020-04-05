@@ -19,7 +19,7 @@ permalink: /posts
 	<div class="small-12 columns">
 
 		<sub>{{ post.date | date: '%B %d, %Y' }}</sub>
-		<a href="{{ post.medium_url }}" target="_blank"><h3>{{ post.title }}</h3></a>
+		<a href="{{ post.medium_url }}" target="_blank"><h3>{{ post.title }} <img class="flag" src="/static/img/{{post.lang}}.svg" /> </h3></a>
 
 	  	{{ post.excerpt }}
 

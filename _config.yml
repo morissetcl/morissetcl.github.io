@@ -22,13 +22,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: morissetcl
 linkedin_username: clément-morisset-6a546465
 image_hp: /static/img/hp.jpg
-thumb_1: /static/img/thumbnail1.jpeg
-thumb_2: /static/img/thumbnail2.jpeg
-thumb_3: /static/img/thumbnail3.jpeg
+thumb_1: /static/img/thumbnail3.jpeg
+thumb_2: /static/img/thumbnail4.png
+thumb_3: /static/img/thumbnail5.png
 thumb_4: /static/img/monsecteur1.png
 thumb_5: /static/img/monsecteur2.png
 thumb_6: /static/img/monsecteur3.png
 thumb_7: /static/img/monsecteur4.png
+fr: /static/img/fr.svg
+en: /static/img/en.svg
 
 # Build settings
 markdown: kramdown

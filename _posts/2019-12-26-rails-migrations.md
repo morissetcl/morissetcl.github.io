@@ -3,7 +3,7 @@ layout: post
 title:  3 simple tips/stuff to use migrations in a better way.
 date:   2019-12-24 18:00:47 +0100
 medium_url: https://medium.com/@clementrollon/3-simple-tips-stuff-to-use-migrations-in-a-better-way-62152cddf15c
-categories:
+lang: en
 ---
 
 rails generate migration AddSomethingToSomething,
