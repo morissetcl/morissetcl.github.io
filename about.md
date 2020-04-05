@@ -25,7 +25,7 @@ permalink: /about/
   <span class='blue'>Testing:</span> Rspec, Jest, TDD<br>
   <span class='blue'>Database:</span> MySQL, PostgreSQL<br>
   <span class='blue'>CI/CD:</span> Gitlab, Travis, CircleCI<br>
-  <span class='blue'>Agile:</span>code review, poker-planning, pair-programming, retrospective<br>
+  <span class='blue'>Agile:</span> code review, poker-planning, pair-programming, retrospective<br>
   <br><br>
 
   <h4 class='underline'>Less Conventional way</h4>
@@ -36,11 +36,11 @@ permalink: /about/
 
   Then I came back to France and I worked as sales rep...but definitely it wasn't for me. So I decided to launch my own tech product..but I couldn't find developers in my surrounding, from this time I've started to learn HTML/CSS as the first baby-step to learn code.<br><br>
 
-  But quickly I fell in love with the magic of coding and I decided to switch job to be part of the tech team. I studied at <a href='https://www.lewagon.com/'>Le Wagon Bootcamp (Paris)</a>. After my graduation I worked on some small missions as Ruby dev..but my career really started when I've begun to work within <a href='https://www.captive.fr/'>Captive Studio</a> (my current job) as Ruby On Rails Developer.
+  But quickly I felt in love with the magic of coding and I decided to switch job to be part of the tech team. I studied at <a href='https://www.lewagon.com/'>Le Wagon Bootcamp (Paris)</a>. After my graduation I worked on some small missions as Ruby dev..but my career really started when I've begun to work within <a href='https://www.captive.fr/'>Captive Studio</a> (my current job) as Ruby On Rails Developer.
   <br><br>
   <p class='subtitle'>What I do after work.</p>
 
-  <span class='blue'>Graffiti:</span> I paint since I was 16. From wall to canvas I like create and play with letters.<br>
+  <span class='blue'>Graffiti:</span> I have been painting for 15 years. From wall to canvas I like create and play with letters.<br>
 
   <span class='blue'>Concert: </span> French rap from 90's to 00 and Gospel music.<br>
 
