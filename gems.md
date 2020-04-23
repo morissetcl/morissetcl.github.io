@@ -25,7 +25,7 @@ permalink: /gems/
         </div>
       </div>
 
-      <p>Have you ever wasted time to set up testing context rather to be focus on the code ? Like Im Five help you to create a complex testing context in a few seconds.</p>
+      <p>Have you ever wasted time to setting up testing context rather than focusing on the code ? Like Im Five helps you to create a complex testing context in a few seconds.</p>
 	</div>
 </div>
 
@@ -40,7 +40,7 @@ permalink: /gems/
         </div>
       </div>
 
-      <p>A small tool CLI, dedicated to Rspec lover, to monitoring your FEATURE specs and check your duplication. SeeDouble go through all your specs and count the number of occurence of your 'expect' and 'result'.</p>
+      <p>A small tool CLI, dedicated to Rspec lover, to monitor your FEATURE specs and check your duplication. SeeDouble goes through all your specs and counts the number of occurences of your « expect » and « result ».</p>
 	</div>
 </div>
 
@@ -56,13 +56,13 @@ permalink: /gems/
       </div>
     </div>
 
-      <p>A simply gem to feminize french word/sentence.</p>
+      <p>A simply gem to feminize French words/sentences.</p>
       <ul>
-        <li>Keep intact upcase, downcase and capitalize letters.</li>
+        <li>Keep intact uppercase, lowercase and capitalize letters.</li>
+        <li>Handle and return punctuation according the French rules. (.;:!...,?)</li>
+        <li>Keep intact words with accents. (éèêâàûôî)</li>
+        <li>Handle some special characters. ('-%)</li>
         <li>Allows you to escape some words if you don't not want feminize them.</li>
-        <li>Handle and return punctuation according the french rules. (.;:!...,?)</li>
-        <li>Keep intact word with accent. (éèêâàûôî)</li>
-        <li>Handle some special character. ('-%)</li>
       </ul>
 	</div>
 

@@ -12,7 +12,7 @@ layout: page
 </script>
 
 <h4 class='title-sub'>Hi I am Clément MORISSET,<br>
-Ruby On Rails developer, benevolent coder and JS framework digger
+Ruby On Rails developer, good natured coder and JS frameworks digger
 </h4>
 
 <div class='wrapper-img'>

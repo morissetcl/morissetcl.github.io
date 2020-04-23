@@ -18,7 +18,7 @@ permalink: /projects/
 	<div class="small-12 columns">
 	<br>
 	<a href="https://www.monsecteur.com/" target="_blank"><h3>Mon Secteur</h3></a>
-    <p>Mon Secteur is a web application dedicated to sales representative specialized in food and B2B. Basically if your customers are restaurants you should take a look to this application. We have created a huge database which give you access to thousands restaurants menus of your prospecting area. You are working in Paris and you need to sell a ton of shrimps ? Quickly find out all restaurants around you which have shrimps in their menu. Save your time and sell faster.</p>
+    <p>Mon Secteur is a web application dedicated to sales representatives specialized in food and B2B. Basically if your customers are restaurants you should take a look at this application. We have created a huge database which give you access to thousands of restaurant menus of your prospective area. Are you  working in Paris and need to sell a ton of shrimp ? Quickly discover all the restaurants around you which have shrimp on their menu. Save your time and sell faster.</p>
 
     <b>Under the hood</b>
     <ul>
@@ -38,7 +38,7 @@ permalink: /projects/
 	<div class="small-12 columns">
 	<br>
 	<a href="https://play.google.com/store/apps/details?id=com.moodtoverse.moodtoverse" target="_blank"><h3>Mood To Verse</h3></a>
-    <p> Mood To Verse is a Christian mobile application which allow you to find the right Bible verse regarding your answer at three questions. Available only on Android and in French. </p>
+    <p> Mood To Verse is a Christian mobile application which allows you to find the right Bible verse regarding your answer with three questions. Available only on Android and in French. </p>
 
     <b>Under the hood</b>
     <ul>
