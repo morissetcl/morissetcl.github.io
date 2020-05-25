@@ -17,6 +17,24 @@ permalink: /projects/
 <div class="row">
 	<div class="small-12 columns">
 	<br>
+	<a href="https://www.blessmeapp.com/fr/" target="_blank"><h3>Bless Me</h3></a>
+    <p>BlessMe is an application dedicated for intercession prayer. According your wish, you can post your prayer request or pray for someone. There is two ways to pray, by writing or by recording audio. Android only.</p>
+    <b>Under the hood</b>
+    <ul>
+      <li>React Native / Rails API</li>
+      <li>Firebase</li>
+    </ul>
+    <div class='screenshot-app'>
+      <img class="screenshot" src="{{ site.thumb_8 }}" />
+      <img class="screenshot" src="{{ site.thumb_9 }}" />
+      <img class="screenshot" src="{{ site.thumb_10 }}" />
+    </div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="small-12 columns">
+	<br>
 	<a href="https://www.monsecteur.com/" target="_blank"><h3>Mon Secteur</h3></a>
     <p>Mon Secteur is a web application dedicated to sales representatives specialized in food and B2B. Basically if your customers are restaurants you should take a look at this application. We have created a huge database which give you access to thousands of restaurant menus of your prospective area. Are you  working in Paris and need to sell a ton of shrimp ? Quickly discover all the restaurants around you which have shrimp on their menu. Save your time and sell faster.</p>
 
