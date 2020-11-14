@@ -16,5 +16,5 @@ Ruby On Rails developer, good natured coder and JS frameworks digger
 </h4>
 
 <div class='wrapper-img'>
-  <a href="/"><img class="profile-avatar" src="{{ site.image_hp }}" /></a>
+  <a href="/"><img class="profile-avatar" src="{{ site.meme }}" /></a>
 </div>
