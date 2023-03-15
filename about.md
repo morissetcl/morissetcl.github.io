@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-90123342-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -14,36 +15,29 @@ permalink: /about/
 
 <section class="post-list">
   <div class="container">
-  <h4 class='title-sub'>Hi there, two ways to know me better..</h4>
+  <h4 class='title-sub'>Hi there.</h4>
 
-  <h4 class='underline'>Conventional way</h4>
+  <h4 class='underline'>Professionally I get by with:</h4>
 
-  <span class='blue'>Back-End:</span> Ruby, Rails <br>
-  <span class='blue'>JS:</span> Vanilla, Jquery, ReactJS, VueJS<br>
-  <span class='blue'>Front-End:</span> Html, CSS, SASS, CSS Framework (Materialize, Bootstrap)<br>
-  <span class='blue'>Mobile:</span> React Native, Expo<br>
-  <span class='blue'>Testing:</span> Rspec, Jest, TDD<br>
-  <span class='blue'>Database:</span> MySQL, PostgreSQL<br>
-  <span class='blue'>CI/CD:</span> Gitlab, Travis, CircleCI<br>
-  <span class='blue'>Agile:</span> code review, poker-planning, pair-programming, retrospective<br>
-  <br><br>
+<span class='blue'>Back-End:</span> Ruby <br>
+<span class='blue'>Framework:</span> Rails, Hanami <br>
+<span class='blue'>Javascript:</span> ReactJS, Typescript, Vanilla, Jquery<br>
+<span class='blue'>Mobile:</span> React Native, Expo<br>
+<span class='blue'>Testing:</span> RSpec, Minitest<br>
+<span class='blue'>Database:</span> PostgreSQL, MySQL<br>
+<span class='blue'>CI/CD:</span> GithubActions, CircleCI<br>
+<span class='blue'>Soft skills:</span> poker-planning, pair-programming, retrospective, grooming and so on<br>
+<br><br>
 
-  <h4 class='underline'>Less Conventional way</h4>
+<h4 class='underline'>What I do before/after work.</h4>
 
-  I have been living in Paris for 10 years. I grew up in Normandy and I've travelled a bit throughout France. Le Havre, Annecy, Paris..for my studies, mainly in marketing, I graduated from business school in 2011.
+<span class='blue'>Bible routine:</span> Read and medidate the Bible. As I am not a good reader, in 2023 I started a plan to read it in 2 years.<br>
 
-  After 2/3 years of work I decided to move for 1 year to Toronto, Canada. Simply to improve my poor english and work in restaurant and also as sales rep within the wine industry.<br><br>
+<span class='blue'>Graffiti:</span> I have been painting for 15 years. From walls to canvas I like to create and play with letters.<br>
 
-  After this I came back to France and I worked as sales rep, but definitely it wasn't for me. So I decided to launch my own tech product. I wasn’t familiar with any developers at the time. As a result I started to learn HTML/CSS as the first baby-step to learn code.<br><br>
+<span class='blue'>Code: </span> After trying to be an indie hacker and failed I am currently focusing on creating Android <a href="https://play.google.com/store/apps/developer?id=BlessedApp" target="_blank">apps</a> for Christians.<br>
 
-  But quickly I fell in love with the magic of coding and I decided to switch job to be part of the tech team. I studied at <a href='https://www.lewagon.com/'>Le Wagon Bootcamp (Paris)</a>. After my graduation I worked on some small missions as Ruby dev..but my career really started when I began to work within <a href='https://www.captive.fr/'>Captive Studio</a> (my current job) as a Ruby On Rails Developer.
-  <br><br>
-  <p class='subtitle'>What I do after work.</p>
+<span class='blue'>Cuckoo clocks: </span> I am building cuckoo clocks, a year ago I tried to launch my <a href="https://www.etsy.com/ca-fr/shop/Rollon3000" target="_blank">Etsy shop</a>.<br>
 
-  <span class='blue'>Graffiti:</span> I have been painting for 15 years. From walls to canvas I like to create and play with letters.<br>
-
-  <span class='blue'>Concert: </span> French rap from 90's to 2000 and Gospel music.<br>
-
-  <span class='blue'>Code: </span>To many sides projects on the go.
   </div>
 </section>

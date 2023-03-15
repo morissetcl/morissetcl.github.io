@@ -19,7 +19,9 @@
   margin-bottom: 20px;
 }
 
-.reset { margin-bottom:  0;}
+.reset {
+  margin-bottom: 0;
+}
 
 .name {
   background-color: red;
@@ -46,8 +48,12 @@
 .wrapper-img {
   display: flex;
   justify-content: center;
-  a { text-align: center }
-  img { width: 55% }
+  a {
+    text-align: center;
+  }
+  img {
+    width: 55%;
+  }
 }
 
 .screenshot-app {
@@ -70,6 +76,11 @@
   align-items: center;
 }
 
-.badges { margin-bottom: 15px; margin-left: 15px;}
+.badges {
+  margin-bottom: 15px;
+  margin-left: 15px;
+}
 
-.flag { width: 3%; }
+.flag {
+  width: 3%;
+}
