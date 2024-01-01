@@ -25,7 +25,7 @@ permalink: /about/
 <span class='blue'>Mobile:</span> React Native, Expo<br>
 <span class='blue'>Testing:</span> RSpec, Minitest<br>
 <span class='blue'>Database:</span> PostgreSQL, MySQL<br>
-<span class='blue'>CI/CD:</span> GithubActions, CircleCI<br>
+<span class='blue'>CI/CD:</span> Github Actions, CircleCI<br>
 <span class='blue'>Soft skills:</span> poker-planning, pair-programming, retrospective, grooming and so on<br>
 <br><br>
 
