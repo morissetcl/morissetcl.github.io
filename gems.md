@@ -16,6 +16,20 @@ permalink: /gems/
 
 <div class="row">
 	<div class="small-12 columns">
+		<sub>February 10, 2024</sub>
+      <div class='gem-header'>
+      <a href="https://github.com/morissetcl/pry-byetypo" target="_blank"><h3>Pry-Byetypo</h3></a>
+        <div class='badges'>
+        <img src="https://badge.fury.io/rb/pry-byetypo.svg" />
+        </div>
+      </div>
+
+      <p>This small Pry plugin captures exceptions that may arise from typos and deduces the correct command based on your database information and session history.</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="small-12 columns">
 		<sub>January 12, 2020</sub>
       <div class='gem-header'>
       <a href="https://github.com/morissetcl/like_im_five" target="_blank"><h3>Like Im Five</h3></a>

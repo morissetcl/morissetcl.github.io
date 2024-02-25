@@ -12,7 +12,7 @@ layout: page
 </script>
 <h4 class='title-sub'>
 Hi I am Clément,<br>
-I am building stuff in Ruby, ReactJS and React Native.*<br><br>
+I am building stuff in Ruby, ReactJS and React Native.*
 </h4>
 <br>
 <br>

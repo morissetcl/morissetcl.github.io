@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Me Myself and I
+title: Clément MO
 email: morissetcl87@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ruby On Rails, Ruby, ReactJS, Ember, TDD, Rspec, Agile....Make it works, Make it right, Make it fast !
@@ -32,9 +32,6 @@ thumb_7: /static/img/monsecteur4.png
 thumb_8: /static/img/blessme3.jpg
 thumb_9: /static/img/blessme2.jpg
 thumb_10: /static/img/blessme1.jpg
-thumb_11: /static/img/hp_tgl.png
-thumb_12: /static/img/letters_tgl.png
-thumb_13: /static/img/form_tgl.png
 
 fr: /static/img/fr.svg
 en: /static/img/en.svg
